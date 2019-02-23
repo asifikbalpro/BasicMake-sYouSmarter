@@ -16,29 +16,29 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.0.2}Compound angle in trigonometry function}{13}{subsection.2.0.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.0.3}Differentiation of trigonometric functions}{13}{subsection.2.0.3}
-\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Calculus}{15}{chapter.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}Differentiation}{15}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Properties of Differential Operator}{16}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.1}Differentiation of trigonometric functions}{16}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Chain Rule}{16}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.2}Properties of Differential Operator}{17}{subsection.3.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.3}Differentiation of Fundamental Functions}{17}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.3}Chain Rule}{17}{subsection.3.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Integration}{18}{section.3.2}
+\contentsline {subsection}{\numberline {3.1.4}Differentiation of Fundamental Functions}{19}{subsection.3.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Fundamental Theorem of Calculus}{19}{section.3.3}
+\contentsline {section}{\numberline {3.2}Integration}{19}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Taylor Series}{20}{section.3.4}
+\contentsline {subsection}{\numberline {3.2.1}Fundamental Theorem of Calculus}{19}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Formula}{22}{section.3.5}
+\contentsline {section}{\numberline {3.3}Taylor Series}{21}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.1}Differentiation}{22}{subsection.3.5.1}
+\contentsline {section}{\numberline {3.4}Formula}{23}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.2}Integration}{23}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.4.1}Differentiation}{23}{subsection.3.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.2}Integration}{24}{subsection.3.4.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Permutation And Combination}{25}{chapter.4}
 \defcounter {refsection}{0}\relax 
