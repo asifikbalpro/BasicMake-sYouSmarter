@@ -11,11 +11,37 @@
 \BOOKMARK [2][-]{subsection.3.1.2}{Properties of Differential Operator}{section.3.1}% 11
 \BOOKMARK [2][-]{subsection.3.1.3}{Chain Rule}{section.3.1}% 12
 \BOOKMARK [2][-]{subsection.3.1.4}{Differentiation of Fundamental Functions}{section.3.1}% 13
-\BOOKMARK [1][-]{section.3.2}{Integration}{chapter.3}% 14
-\BOOKMARK [2][-]{subsection.3.2.1}{Fundamental Theorem of Calculus}{section.3.2}% 15
-\BOOKMARK [1][-]{section.3.3}{Taylor Series}{chapter.3}% 16
-\BOOKMARK [1][-]{section.3.4}{Formula}{chapter.3}% 17
-\BOOKMARK [2][-]{subsection.3.4.1}{Differentiation}{section.3.4}% 18
-\BOOKMARK [2][-]{subsection.3.4.2}{Integration}{section.3.4}% 19
-\BOOKMARK [0][-]{chapter.4}{Permutation And Combination}{}% 20
-\BOOKMARK [0][-]{chapter.5}{Complex Number}{}% 21
+\BOOKMARK [2][-]{subsection.3.1.5}{Properties of differential operator}{section.3.1}% 14
+\BOOKMARK [2][-]{subsection.3.1.6}{Partial definition}{section.3.1}% 15
+\BOOKMARK [2][-]{subsection.3.1.7}{Maxima / minima\(extrema\)}{section.3.1}% 16
+\BOOKMARK [1][-]{section.3.2}{Vector}{chapter.3}% 17
+\BOOKMARK [2][-]{subsection.3.2.1}{Curl, Gradient, Divergence}{section.3.2}% 18
+\BOOKMARK [2][-]{subsection.3.2.2}{Meaning of dot product}{section.3.2}% 19
+\BOOKMARK [2][-]{subsection.3.2.3}{Cross product\(in 3D\)}{section.3.2}% 20
+\BOOKMARK [2][-]{subsection.3.2.4}{Curl of a vector / vector field}{section.3.2}% 21
+\BOOKMARK [2][-]{subsection.3.2.5}{Basis}{section.3.2}% 22
+\BOOKMARK [2][-]{subsection.3.2.6}{Property of the basis vector}{section.3.2}% 23
+\BOOKMARK [2][-]{subsection.3.2.7}{Properties of gradient divergence and curl}{section.3.2}% 24
+\BOOKMARK [1][-]{section.3.3}{Linear Algebra}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.3.1}{Gaussian Elimination}{section.3.3}% 26
+\BOOKMARK [2][-]{subsection.3.3.2}{Gauss Jordan elimination}{section.3.3}% 27
+\BOOKMARK [2][-]{subsection.3.3.3}{Rotation matrix in 3D form graph}{section.3.3}% 28
+\BOOKMARK [2][-]{subsection.3.3.4}{Inverse matrix}{section.3.3}% 29
+\BOOKMARK [2][-]{subsection.3.3.5}{Matrix multiplication}{section.3.3}% 30
+\BOOKMARK [1][-]{section.3.4}{Integration}{chapter.3}% 31
+\BOOKMARK [2][-]{subsection.3.4.1}{Fundamental Theorem of Calculus}{section.3.4}% 32
+\BOOKMARK [1][-]{section.3.5}{Lagrangian}{chapter.3}% 33
+\BOOKMARK [1][-]{section.3.6}{Taylor Series}{chapter.3}% 34
+\BOOKMARK [1][-]{section.3.7}{Formula}{chapter.3}% 35
+\BOOKMARK [2][-]{subsection.3.7.1}{Differentiation}{section.3.7}% 36
+\BOOKMARK [2][-]{subsection.3.7.2}{Integration}{section.3.7}% 37
+\BOOKMARK [0][-]{chapter.4}{Permutation And Combination}{}% 38
+\BOOKMARK [0][-]{chapter.5}{Complex Number}{}% 39
+\BOOKMARK [1][-]{section.5.1}{Complex Number}{chapter.5}% 40
+\BOOKMARK [2][-]{subsection.5.1.1}{Euler formula}{section.5.1}% 41
+\BOOKMARK [2][-]{subsection.5.1.2}{Euler Rotation}{section.5.1}% 42
+\BOOKMARK [2][-]{subsection.5.1.3}{Euler Rotation \(Rotation coordinate transformation \)}{section.5.1}% 43
+\BOOKMARK [1][-]{section.5.2}{Spring}{chapter.5}% 44
+\BOOKMARK [2][-]{subsection.5.2.1}{Mass spring system}{section.5.2}% 45
+\BOOKMARK [2][-]{subsection.5.2.2}{Energy stoned in the spring}{section.5.2}% 46
+\BOOKMARK [2][-]{subsection.5.2.3}{Frequency}{section.5.2}% 47
